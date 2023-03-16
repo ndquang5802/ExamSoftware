@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "question": "enable web-enabled e-business",
+        "option 1": "incubate collaborative networks",
+        "option 2": "revolutionize holistic action-items",
+        "option 3": "unleash back-end e-services",
+        "option 4": "scale robust infomediaries",
+        "correct": "D"
+    },
+    {
+        "id": 2,
+        "question": "utilize back-end portals",
+        "option 1": "iterate frictionless channels",
+        "option 2": "matrix enterprise e-business",
+        "option 3": "revolutionize extensible eyeballs",
+        "option 4": "synergize impactful schemas",
+        "correct": "D"
+    },
+    {
+        "id": 3,
+        "question": "innovate real-time metrics",
+        "option 1": "innovate transparent portals",
+        "option 2": "seize proactive models",
+        "option 3": "facilitate B2B supply-chains",
+        "option 4": "exploit plug-and-play convergence",
+        "correct": "D"
+    },
+    {
+        "id": 4,
+        "question": "architect rich models",
+        "option 1": "mesh sticky e-commerce",
+        "option 2": "unleash collaborative e-tailers",
+        "option 3": "embrace bleeding-edge communities",
+        "option 4": "utilize viral deliverables",
+        "correct": "D"
+    },
+    {
+        "id": 5,
+        "question": "exploit strategic ROI",
+        "option 1": "deliver world-class communities",
+        "option 2": "extend enterprise functionalities",
+        "option 3": "grow scalable vortals",
+        "option 4": "repurpose global vortals",
+        "correct": "B"
+    },
+    {
+        "id": 6,
+        "question": "whiteboard best-of-breed web services",
+        "option 1": "seize customized initiatives",
+        "option 2": "seize vertical infrastructures",
+        "option 3": "transform clicks-and-mortar interfaces",
+        "option 4": "evolve bleeding-edge vortals",
+        "correct": "C"
+    },
+    {
+        "id": 7,
+        "question": "e-enable out-of-the-box synergies",
+        "option 1": "brand e-business e-markets",
+        "option 2": "repurpose end-to-end users",
+        "option 3": "integrate out-of-the-box e-markets",
+        "option 4": "streamline compelling synergies",
+        "correct": "D"
+    },
+    {
+        "id": 8,
+        "question": "aggregate intuitive partnerships",
+        "option 1": "visualize virtual architectures",
+        "option 2": "aggregate 24/365 methodologies",
+        "option 3": "brand end-to-end eyeballs",
+        "option 4": "reinvent customized systems",
+        "correct": "A"
+    },
+    {
+        "id": 9,
+        "question": "generate seamless convergence",
+        "option 1": "unleash interactive initiatives",
+        "option 2": "redefine sexy channels",
+        "option 3": "evolve 24/365 users",
+        "option 4": "architect mission-critical synergies",
+        "correct": "D"
+    },
+    {
+        "id": 10,
+        "question": "deliver mission-critical paradigms",
+        "option 1": "facilitate robust convergence",
+        "option 2": "integrate scalable initiatives",
+        "option 3": "utilize dot-com eyeballs",
+        "option 4": "deploy next-generation partnerships",
+        "correct": "B"
+    },
+    {
+        "id": 11,
+        "question": "generate sticky e-business",
+        "option 1": "brand vertical architectures",
+        "option 2": "iterate holistic interfaces",
+        "option 3": "architect extensible bandwidth",
+        "option 4": "deliver killer metrics",
+        "correct": "C"
+    },
+    {
+        "id": 12,
+        "question": "iterate cutting-edge e-commerce",
+        "option 1": "engineer killer convergence",
+        "option 2": "integrate plug-and-play platforms",
+        "option 3": "facilitate out-of-the-box niches",
+        "option 4": "engineer bleeding-edge convergence",
+        "correct": "D"
+    },
+    {
+        "id": 13,
+        "question": "whiteboard B2C infomediaries",
+        "option 1": "streamline rich infomediaries",
+        "option 2": "transform B2B e-business",
+        "option 3": "drive viral markets",
+        "option 4": "synthesize viral solutions",
+        "correct": "D"
+    },
+    {
+        "id": 14,
+        "question": "whiteboard B2C models",
+        "option 1": "incentivize cross-media deliverables",
+        "option 2": "disintermediate cutting-edge action-items",
+        "option 3": "implement integrated e-markets",
+        "option 4": "redefine scalable models",
+        "correct": "A"
+    },
+    {
+        "id": 15,
+        "question": "orchestrate scalable mindshare",
+        "option 1": "empower scalable networks",
+        "option 2": "grow leading-edge functionalities",
+        "option 3": "disintermediate extensible niches",
+        "option 4": "synthesize global web services",
+        "correct": "D"
+    },
+    {
+        "id": 16,
+        "question": "incentivize ubiquitous e-tailers",
+        "option 1": "architect ubiquitous e-business",
+        "option 2": "harness viral action-items",
+        "option 3": "facilitate 24/7 channels",
+        "option 4": "leverage proactive niches",
+        "correct": "D"
+    },
+    {
+        "id": 17,
+        "question": "optimize viral e-commerce",
+        "option 1": "streamline interactive platforms",
+        "option 2": "incentivize dynamic web-readiness",
+        "option 3": "matrix interactive eyeballs",
+        "option 4": "facilitate best-of-breed e-services",
+        "correct": "D"
+    },
+    {
+        "id": 18,
+        "question": "embrace vertical bandwidth",
+        "option 1": "empower B2C ROI",
+        "option 2": "deliver back-end markets",
+        "option 3": "drive next-generation mindshare",
+        "option 4": "optimize real-time applications",
+        "correct": "A"
+    },
+    {
+        "id": 19,
+        "question": "reinvent extensible action-items",
+        "option 1": "seize cross-media functionalities",
+        "option 2": "architect user-centric applications",
+        "option 3": "whiteboard intuitive synergies",
+        "option 4": "morph integrated networks",
+        "correct": "B"
+    },
+    {
+        "id": 20,
+        "question": "strategize best-of-breed experiences",
+        "option 1": "repurpose best-of-breed e-services",
+        "option 2": "streamline seamless interfaces",
+        "option 3": "expedite leading-edge supply-chains",
+        "option 4": "redefine enterprise partnerships",
+        "correct": "B"
+    },
+    {
+        "id": 21,
+        "question": "maximize turn-key bandwidth",
+        "option 1": "cultivate transparent web-readiness",
+        "option 2": "productize granular e-tailers",
+        "option 3": "extend distributed solutions",
+        "option 4": "matrix revolutionary e-tailers",
+        "correct": "A"
+    },
+    {
+        "id": 22,
+        "question": "enable efficient networks",
+        "option 1": "seize cutting-edge supply-chains",
+        "option 2": "transform granular communities",
+        "option 3": "transition web-enabled markets",
+        "option 4": "engineer open-source eyeballs",
+        "correct": "D"
+    },
+    {
+        "id": 23,
+        "question": "architect customized infomediaries",
+        "option 1": "synthesize collaborative communities",
+        "option 2": "syndicate frictionless experiences",
+        "option 3": "drive cutting-edge ROI",
+        "option 4": "incubate plug-and-play experiences",
+        "correct": "B"
+    },
+    {
+        "id": 24,
+        "question": "empower web-enabled platforms",
+        "option 1": "synthesize leading-edge e-services",
+        "option 2": "optimize value-added applications",
+        "option 3": "target strategic web services",
+        "option 4": "embrace frictionless paradigms",
+        "correct": "C"
+    },
+    {
+        "id": 25,
+        "question": "recontextualize magnetic experiences",
+        "option 1": "exploit 24/7 e-tailers",
+        "option 2": "innovate rich e-business",
+        "option 3": "iterate efficient e-business",
+        "option 4": "aggregate leading-edge ROI",
+        "correct": "D"
+    },
+    {
+        "id": 26,
+        "question": "leverage killer solutions",
+        "option 1": "transition sexy functionalities",
+        "option 2": "disintermediate turn-key supply-chains",
+        "option 3": "empower holistic web-readiness",
+        "option 4": "extend turn-key networks",
+        "correct": "D"
+    },
+    {
+        "id": 27,
+        "question": "matrix cutting-edge users",
+        "option 1": "incentivize proactive web services",
+        "option 2": "recontextualize cutting-edge web services",
+        "option 3": "expedite collaborative e-markets",
+        "option 4": "repurpose real-time e-services",
+        "correct": "D"
+    },
+    {
+        "id": 28,
+        "question": "integrate virtual e-tailers",
+        "option 1": "enable extensible ROI",
+        "option 2": "drive e-business functionalities",
+        "option 3": "iterate vertical initiatives",
+        "option 4": "aggregate 24/365 solutions",
+        "correct": "D"
+    },
+    {
+        "id": 29,
+        "question": "e-enable strategic supply-chains",
+        "option 1": "integrate world-class channels",
+        "option 2": "productize distributed paradigms",
+        "option 3": "maximize one-to-one synergies",
+        "option 4": "brand transparent technologies",
+        "correct": "D"
+    },
+    {
+        "id": 30,
+        "question": "transform bricks-and-clicks bandwidth",
+        "option 1": "cultivate synergistic users",
+        "option 2": "facilitate turn-key deliverables",
+        "option 3": "redefine ubiquitous relationships",
+        "option 4": "synergize wireless solutions",
+        "correct": "C"
+    },
+    {
+        "id": 31,
+        "question": "matrix strategic communities",
+        "option 1": "reintermediate robust networks",
+        "option 2": "implement B2C schemas",
+        "option 3": "generate one-to-one e-business",
+        "option 4": "deploy efficient vortals",
+        "correct": "D"
+    },
+    {
+        "id": 32,
+        "question": "integrate rich methodologies",
+        "option 1": "aggregate cross-media web services",
+        "option 2": "target 24/365 architectures",
+        "option 3": "incubate 24/365 methodologies",
+        "option 4": "reintermediate impactful bandwidth",
+        "correct": "D"
+    },
+    {
+        "id": 33,
+        "question": "revolutionize compelling technologies",
+        "option 1": "benchmark dot-com technologies",
+        "option 2": "transform efficient ROI",
+        "option 3": "brand dynamic ROI",
+        "option 4": "target visionary metrics",
+        "correct": "C"
+    },
+    {
+        "id": 34,
+        "question": "strategize leading-edge experiences",
+        "option 1": "incentivize one-to-one applications",
+        "option 2": "cultivate wireless mindshare",
+        "option 3": "exploit plug-and-play models",
+        "option 4": "extend impactful initiatives",
+        "correct": "D"
+    },
+    {
+        "id": 35,
+        "question": "implement impactful solutions",
+        "option 1": "grow mission-critical synergies",
+        "option 2": "transform innovative e-commerce",
+        "option 3": "architect web-enabled paradigms",
+        "option 4": "leverage transparent action-items",
+        "correct": "D"
+    },
+    {
+        "id": 36,
+        "question": "monetize one-to-one action-items",
+        "option 1": "drive viral relationships",
+        "option 2": "revolutionize killer paradigms",
+        "option 3": "deliver mission-critical communities",
+        "option 4": "expedite bricks-and-clicks supply-chains",
+        "correct": "A"
+    },
+    {
+        "id": 37,
+        "question": "recontextualize back-end systems",
+        "option 1": "recontextualize front-end communities",
+        "option 2": "engineer bricks-and-clicks functionalities",
+        "option 3": "facilitate end-to-end initiatives",
+        "option 4": "revolutionize cutting-edge eyeballs",
+        "correct": "D"
+    },
+    {
+        "id": 38,
+        "question": "unleash leading-edge metrics",
+        "option 1": "syndicate B2B web services",
+        "option 2": "optimize frictionless web-readiness",
+        "option 3": "envisioneer dynamic deliverables",
+        "option 4": "seize bleeding-edge synergies",
+        "correct": "D"
+    },
+    {
+        "id": 39,
+        "question": "implement world-class models",
+        "option 1": "brand web-enabled channels",
+        "option 2": "productize wireless networks",
+        "option 3": "deliver frictionless web services",
+        "option 4": "reintermediate compelling infomediaries",
+        "correct": "D"
+    },
+    {
+        "id": 40,
+        "question": "reintermediate cross-platform paradigms",
+        "option 1": "iterate user-centric infomediaries",
+        "option 2": "synergize turn-key mindshare",
+        "option 3": "envisioneer dynamic paradigms",
+        "option 4": "scale collaborative content",
+        "correct": "D"
+    }
+]

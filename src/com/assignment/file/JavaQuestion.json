@@ -1,0 +1,92 @@
+[
+    {
+        "option 3": "System.out.println(\"Hello World\");",
+        "option 4": "Console.WriteLine(\"Hello World\");",
+        "question": "What is a correct syntax to output \"Hello World\" in Java?",
+        "correct": "C",
+        "id": 1,
+        "option 1": "echo(\"Hello World\");",
+        "option 2": "print (\"Hello World\");"
+    },
+    {
+        "option 3": "\/* This is a comment",
+        "option 4": "*\/ This is a comment",
+        "question": "How do you insert COMMENTS in Java code?",
+        "correct": "A",
+        "id": 2,
+        "option 1": "\/\/ This is a comment",
+        "option 2": "# This is a comment"
+    },
+    {
+        "option 3": "Txt",
+        "option 4": "myString",
+        "question": "Which data type is used to create a variable that should store text?",
+        "correct": "A",
+        "id": 3,
+        "option 1": "String",
+        "option 2": "string"
+    },
+    {
+        "option 3": "float x = 5",
+        "option 4": "x = 5",
+        "question": "How do you create a variable with the numeric value 5?",
+        "correct": "B",
+        "id": 4,
+        "option 1": "num x = 5",
+        "option 2": "int x = 5;"
+    },
+    {
+        "option 3": "byte x = 2.8f",
+        "option 4": "int x = 2.8f;",
+        "question": "How do you create a variable with the floating number 2.8?",
+        "correct": "B",
+        "id": 5,
+        "option 1": "x = 2.8f",
+        "option 2": "float x = 2.8f;"
+    },
+    {
+        "option 3": "getSize()",
+        "option 4": "getLength()",
+        "question": "Which method can be used to find the length of a string?",
+        "correct": "B",
+        "id": 6,
+        "option 1": "len()",
+        "option 2": "length()"
+    },
+    {
+        "option 3": "touppercase()",
+        "option 4": "tuc()",
+        "question": "Which method can be used to return a string in upper case letters?",
+        "correct": "B",
+        "id": 7,
+        "option 1": "upperCase()",
+        "option 2": "toUpperCase()"
+    },
+    {
+        "option 3": "==",
+        "option 4": "><",
+        "question": "Which operator can be used to compare two values?",
+        "correct": "C",
+        "id": 8,
+        "option 1": "=",
+        "option 2": "<>"
+    },
+    {
+        "option 3": "(methodName)",
+        "option 4": "methodName()",
+        "question": "How do you create a method in Java?",
+        "correct": "D",
+        "id": 9,
+        "option 1": "methodName.",
+        "option 2": "mothodName[]"
+    },
+    {
+        "option 3": "(methodName);",
+        "option 4": "methodName;",
+        "question": "How do you call a method in Java?",
+        "correct": "A",
+        "id": 10,
+        "option 1": "methodName();",
+        "option 2": "methodName[];"
+    }
+]
